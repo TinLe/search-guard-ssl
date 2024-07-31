@@ -44,7 +44,7 @@
     </licenses>
 
     <properties>
-        <elasticsearch.version>6.8.17</elasticsearch.version>
+        <elasticsearch.version>7.17.23</elasticsearch.version>
         <dependency.locations.enabled>false</dependency.locations.enabled>
     </properties>
 
